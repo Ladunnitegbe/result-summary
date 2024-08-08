@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./solution\screenshot.jpg)
+Screenshot shown here (./solution\screenshot.jpg)
 
 ### Links
 
